@@ -1,2 +1,2 @@
 - Nikita Das
-- Data Analyst and Machine learning.
+- Data Analyst | Big Data | Machine Learning.
