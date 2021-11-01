@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Nikita Das
-- My github username is @dasnikita
-- 👀 I’m interested in Data science and Machine Learning
-- 🌱 I’m currently learning Big Data Analytics
-- 💞️ I’m looking to collaborate 
-- 📫 You can email me at dasnikita47@gmail.com
+- Nikita Das
+- Data Analyst and Machine learning.
